@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Export-Package: Library.class;version="0.0.5",com.smokejumperit.gradle
+ .report;version="0.0.5";uses:="com.google.common.cache,groovy.lang,gr
+ oovy.util.slurpersupport,org.gradle.api,org.gradle.api.artifacts,org.
+ gradle.api.tasks"
+Bundle-SymbolicName: com.smokejumperit.gradle.license.LicenseInfo
+Bundle-Version: 0.0.5
+Bundle-Name: LicenseInfo
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1518939967464
+Private-Package: .
+Import-Package: com.google.common.base;version="[17.0,18)",com.google.
+ common.cache;version="[17.0,18)",com.google.common.collect;version="[
+ 17.0,18)",com.google.common.io;version="[17.0,18)",groovy.lang;versio
+ n="[2.3,3)",groovy.util;version="[2.3,3)",groovy.util.slurpersupport;
+ version="[2.3,3)",org.apache.commons.lang3;version="[3.7,4)",org.code
+ haus.groovy.reflection;version="[2.3,3)",org.codehaus.groovy.runtime;
+ version="[2.3,3)",org.codehaus.groovy.runtime.callsite;version="[2.3,
+ 3)",org.codehaus.groovy.runtime.typehandling;version="[2.3,3)",org.co
+ dehaus.groovy.util;version="[2.3,3)",org.gradle.api,org.gradle.api.ar
+ tifacts,org.gradle.api.logging,org.gradle.api.specs,org.gradle.api.ta
+ sks,org.gradle.tooling
+Created-By: 1.8.0_101 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

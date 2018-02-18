@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/groovy"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.6.0-alpha-2/35178ccdd341c12214014bd221ff925983b94585/groovy-2.6.0-alpha-2.jar" sourcepath="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.6.0-alpha-2/43afd14616903364c9977d2a574b079a6a257c6/groovy-2.6.0-alpha-2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/557edd918fd41f9260963583ebf5a61a43a6b423/commons-lang3-3.7.jar" sourcepath="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/e7e36219edde1c66c93495a75490d8f526c377cb/commons-lang3-3.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/815893df5f31da2ece4040fe0a12fd44b577afaf/commons-io-2.6.jar" sourcepath="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/2566800dc841d9d2c5a0d34d807e45d4107dbbdf/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/24.0-jre/41ac1e74d6b4e1ea1f027139cffeb536c732a81/guava-24.0-jre.jar" sourcepath="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/24.0-jre/4530f6a317a2d55e8903874896537dcf39717b7/guava-24.0-jre-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.0.0/fc89b03860d11d6213d0154a62bcd1c2f69b9efa/checker-compat-qual-2.0.0.jar" sourcepath="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.0.0/eb7f7d588d0aef07a2c89178053c2a9e4613947f/checker-compat-qual-2.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.3/39b109f2cd352b2d71b52a3b5a1a9850e1dc304b/error_prone_annotations-2.1.3.jar" sourcepath="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.3/990fe1fd48078a2befecdfcebcad8e6e1bd195a0/error_prone_annotations-2.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-annotations-1.1.jar" sourcepath="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/dcd31de68a90e41e336f6b7afce0d39285c433d7/j2objc-annotations-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar" sourcepath="C:/Users/Kalyan/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/886474da3f761d39fcbb723d97ecc5089e731f42/animal-sniffer-annotations-1.14-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/.gradle/wrapper/dists/gradle-3.0-bin/2z3tfybitalx2py5dr8rf2mti/gradle-3.0/lib/groovy-all-2.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/.gradle/wrapper/dists/gradle-3.0-bin/2z3tfybitalx2py5dr8rf2mti/gradle-3.0/lib/gradle-installation-beacon-3.0.jar"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="con" path="org.eclipse.xtend.XTEND_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/Downloads/gradle-tooling-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kalyan/Downloads/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
