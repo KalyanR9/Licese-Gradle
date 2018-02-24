@@ -56,6 +56,7 @@ sourceSets {
     main {
         java {
             srcDir 'hydrograph.ui/hydrograph.ui.help/src'
+	    include 'main/java/hydrograph/ui/help/GradleTasks/**'
        }
    }
 }
