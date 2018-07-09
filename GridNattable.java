@@ -446,7 +446,7 @@ public class GridNattable {
                             MouseEventMatcher.LEFT_BUTTON,
                             BUTTON_CELL_LABEL);
 
-            // Inform the button painter of the click.
+            // Inform the button painter of the click. Rendering_cells_as_a_link_and_button
             uiBindingRegistry.registerMouseDownBinding(mouseEventMatcher, this.buttonCellPainter);
         }
 
